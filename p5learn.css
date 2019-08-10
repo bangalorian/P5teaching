@@ -1,0 +1,52 @@
+body
+{
+  font: 1em Verdana, Geneva, sans-serif;
+  padding: 0;
+  margin: 5px;
+  color: Black;
+  background-color: WhiteSmoke;
+}
+
+div
+{
+  padding: 0;
+  margin: 0;
+
+}
+#app
+{
+  display: inline-block;
+}
+
+#p5Canvas
+{
+  display:inline-block;
+  padding: 10px;
+  border-style: solid;
+  border-color: Black;
+  border-width: 6px;
+}
+
+#buttons
+{
+
+  background-color: LightGreen;
+  border-style: solid;
+  border-width: 3px;
+  border-color: Black;
+  padding: 10px;
+}
+
+.roundButton
+{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+button
+{
+  height : 50px;
+  font-size: 25px;
+  cursor: pointer;
+}
